@@ -3,13 +3,16 @@
 
 * [BALANCE-VUE - Git Hub](https://github.com/dvega920/BALANCE)
 * [BALANCE-VUE - Heroku](https://tranquil-cliffs-63074.herokuapp.com/)
-* [BALANCE-VUE - Demo Video](https://drive.google.com/file/d/1NQgZDIV8N003ShHEplUJ7ZKaZPlWWJIh/view)
+* [BALANCE-VUE - Demo Video](https://drive.google.com/file/d/1EUd0oUYkT08TKnxjbmqPDJ901ri62zKI/view)
 
 Patient Portal View: 
 
 ![BALANCE-VUE-PATIENT - Demo](demo/Patient-gif.gif)
 
 Provider Portal View: 
+
+![BALANCE-VUE-PROVIDER - Demo](demo/Provider-gif.gif)
+
 
 ### To Demonstrate App
 > Open deployed link in browser
