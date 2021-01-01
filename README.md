@@ -5,6 +5,8 @@
 * [BALANCE-VUE - Heroku](https://tranquil-cliffs-63074.herokuapp.com/)
 * [BALANCE-VUE - Demo Video](https://drive.google.com/file/d/1NQgZDIV8N003ShHEplUJ7ZKaZPlWWJIh/view)
 
+Patient Portal View: 
+
 ![BALANCE-VUE-PATIENT - Demo](demo/Patient-gif.gif)
 
 ### To Demonstrate App
