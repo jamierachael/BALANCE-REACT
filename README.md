@@ -3,7 +3,9 @@
 
 * [BALANCE-VUE - Git Hub](https://github.com/dvega920/BALANCE)
 * [BALANCE-VUE - Heroku](https://tranquil-cliffs-63074.herokuapp.com/)
-* [BALANCE - Demo Video]()
+* [BALANCE-VUE - Demo Video](https://drive.google.com/file/d/1NQgZDIV8N003ShHEplUJ7ZKaZPlWWJIh/view)
+
+![BALANCE-VUE-PATIENT - Demo](demo/Patient-gif.gif)
 
 ### To Demonstrate App
 > Open deployed link in browser
