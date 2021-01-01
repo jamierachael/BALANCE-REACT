@@ -1,10 +1,5 @@
 # BALANCE-VUE
 
-## Contributers
-* David Vega - Team Lead
-* Mandolin Foster - Content Creator
-* Adam Toomey - Front End Design
-* Jamie Morris - Back End Management
 
 * [BALANCE-VUE - Git Hub](https://github.com/dvega920/BALANCE)
 * [BALANCE-VUE - Heroku](https://tranquil-cliffs-63074.herokuapp.com/)
@@ -89,6 +84,10 @@ npm run lint
 ## Authors
 
 * **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jamierachael)
+* David Vega - Team Lead
+* Mandolin Foster - Content Creator
+* Adam Toomey - Front End Design
+* Jamie Morris - Back End Management
 * UNH Project Design
 
 ## Acknowledgments
