@@ -20,7 +20,7 @@ Provider Portal View:
 
 ## Summary
 
-Balance is a website designed to intergrate communication between mental health service providers and clients. This was built using Vue.js, Material CSS, MongoDB, Express, and, Node.
+Balance is a website designed to integrate communication between mental health service providers and clients. This was built using Vue.js, Material CSS, MongoDB, Express, and, Node.
 
 How it works: 
 
