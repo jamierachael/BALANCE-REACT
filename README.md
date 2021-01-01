@@ -1,19 +1,25 @@
-# Project-3
-# BALANCE
-## Group Project-3 - BALANCE
-# Members
-## David Vega
-## Mandolin Foster
-## Adam Toomey
-## Jamie Morris
+# BALANCE-VUE
 
-* ['Project-2 - BALANCE - Git Hub'](https://github.com/dvega920/BALANCE)
-* ['Project-2 - BALANCE - Git Hub IO'](https://dvega920.github.io/BALANCE/)
-* ['Project-2 - BALANCE - Heroku'](https://tranquil-cliffs-63074.herokuapp.com/)
-* ['Project-2 - BALANCE - Demo Video']()
+## Contributers
+# David Vega - Team Lead
+# Mandolin Foster - Content Creator
+# Adam Toomey - Front End Design
+# Jamie Morris - Back End Management
+
+* [BALANCE-VUE - Git Hub](https://github.com/dvega920/BALANCE)
+* [BALANCE-VUE - Heroku](https://tranquil-cliffs-63074.herokuapp.com/)
+* [BALANCE - Demo Video]()
+
+### To Demonstrate App
+> Open deployed link in browser
 
 
-### Summary
+## Summary
+
+Balance is a website designed to intergrate communication between mental health service providers and clients. This was built using Vue.js. 
+
+How it works: 
+
 * VUE JS compiles components to create a comprehensive website for both physician and patient to manage mental health.
 * This project emphasizes the use of VUE JS, custom API, and Sequelize Database
 * This project utilizes the use of npm packages: Sequelize and express
@@ -48,10 +54,18 @@
 * Extra large devices (large desktops, 1200px and up)
 * Foundation Media Query for 40em
 
-### To Execute File:
-> Open deployed link in browser
 
-# balance-app
+## Getting Started
+
+This app requires custom configuration while using Vue.js. 
+
+Customize configuration: 
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Prerequisites
+
+The repository must be cloned, and npm dependencies installed. 
 
 ## Project setup
 ```
@@ -72,6 +86,13 @@ npm run build
 ```
 npm run lint
 ```
+## Authors
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jamierachael)
+* UNH Project Design
+
+## Acknowledgments
+
+* Hat tip to UNH for providing project parameters and code examples
+
+
