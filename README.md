@@ -9,13 +9,15 @@ Patient Portal View:
 
 ![BALANCE-VUE-PATIENT - Demo](demo/Patient-gif.gif)
 
+Provider Portal View: 
+
 ### To Demonstrate App
 > Open deployed link in browser
 
 
 ## Summary
 
-Balance is a website designed to intergrate communication between mental health service providers and clients. This was built using Vue.js. 
+Balance is a website designed to intergrate communication between mental health service providers and clients. This was built using Vue.js, Material CSS, MongoDB, Express, and, Node.
 
 How it works: 
 
