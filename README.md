@@ -83,11 +83,12 @@ npm run lint
 ```
 ## Authors
 
-* **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jamierachael)
+This group project was created by the following: 
+
+* **Jamie Rachael Morris**  - Back End Management - [Git Hub Profile](https://github.com/jamierachael)
 * David Vega - Team Lead
 * Mandolin Foster - Content Creator
 * Adam Toomey - Front End Design
-* Jamie Morris - Back End Management
 * UNH Project Design
 
 ## Acknowledgments
